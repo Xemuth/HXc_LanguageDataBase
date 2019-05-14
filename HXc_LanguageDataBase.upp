@@ -1,0 +1,13 @@
+uses
+	Core,
+	Sql,
+	plugin/sqlite3;
+
+file
+	HXc_LanguageDataBase.sch,
+	HXc_LanguageDataBase.h,
+	Hxc_LanguageDataBase.cpp;
+
+mainconfig
+	"" = "";
+
